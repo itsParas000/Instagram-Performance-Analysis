@@ -25,6 +25,3 @@ and reach by content type
 
 # Dashboard  
 <img width="1858" height="765" alt="image" src="https://github.com/user-attachments/assets/1f7d3e4e-2c40-4b2d-a6ae-0a1b91b2f921" />  
-
-# background Image  
-https://www.freepik.com/free-ai-image/digital-art-moon-wallpaper_77361121.htm  
